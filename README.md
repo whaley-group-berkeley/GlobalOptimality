@@ -1,5 +1,9 @@
 # GlobalOptimality
+
 This page contains codes for numerical solution of globally optimal feedback control protocol for qubit purification in presence of measurement inefficiency.  The codes are all written in matlab.
+
+The codes in this repository were used to generate the solutions in the paper "Optimality of feedback control for qubit purification under inefficient measurement", by Y. Jiang, X. Wang, L. Martin, and K. B. Whaley, arXiv:1910.02487.
+Usage of these codes should reference that paper.
 
 There are 4 codes here:
 
